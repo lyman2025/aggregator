@@ -1,10 +1,10 @@
 {
     "domains": [
         {
-            "domain": "",
+            "domain": "https://gist.github.com/lyman2025/23ee2e3fff6c91faad2e75e8d8b56348",
             "param": {
-                "email": "",
-                "passwd": "",
+                "email": "lyman75@hotmail.com",
+                "passwd": "ustc@2025",
                 "login": "/auth/login",
                 "checkin": "/user/checkin"
             }
